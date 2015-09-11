@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="title">Recent Chats</string>
+    <string name="name">John Doe</string>
+    <string name="message">Hey! How are you?</string>
+    <string name="hour">22:20</string>
+    <string name="profile_desc">Profile default image.</string>
+</resources>
